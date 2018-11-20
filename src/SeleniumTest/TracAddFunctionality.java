@@ -14,7 +14,7 @@ public class TracAddFunctionality {
 
 	//TracView obj = new TracView();
    //	obj.OpenTracView();
-	Thread.sleep(1000);
+	Thread.sleep(2000);
 	 Utility.driver.findElement(By.xpath("//button[text()='View']")).click(); // Click view without selecting a item from grid
 	 Thread.sleep(1000);
 	 Utility.driver.findElement(By.xpath("//button[Text()='OK']")).click(); // Click OK from the popup
