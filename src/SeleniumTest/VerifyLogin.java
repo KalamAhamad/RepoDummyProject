@@ -16,7 +16,7 @@ public static void login() throws InterruptedException
  // System.out.println(" TTestcase Executing...");
 //  System.setProperty("webdriver.chrome.driver","D:\\ChromeDriver\\chromedriver.exe");
 //  WebDriver driver = new ChromeDriver();   
-// driver.navigate().to("http://192.168.1.211/Husqvarna/");
+// driver.navigate().to("http://google.com/");
 // driver.manage().window().maximize();
 	
 Utility.initialize();
